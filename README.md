@@ -7,3 +7,5 @@ This report applies four return-based volatility estimation methods to 64 stocks
 | R<sup>2</sup>  | 0.4598  | -0.0293 |
 | MAE  | 0.0612  | 0.1072 |
 | RMSE | 0.1016 | 0.1402 |
+
+Data was sourced from [Tanay Agarwal on Kaggle](https://www.kaggle.com/datasets/tanay001/nseindia-futures-options-daily)
